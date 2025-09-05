@@ -12,3 +12,16 @@ To recommend strategies for improving sales performance based on insights.
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 Jupyter Notebook for interactive exploration
 GitHub for project version control and collaboration
+Feature Engineering – selecting relevant demographic variables for modeling.
+Modeling – Logistic Regression, Decision Tree, Random Forest.
+Model Evaluation – accuracy, confusion matrix, precision, recall, F1-score.
+Recommendations – business insights from results.
+# Results Summary
+Logistic Regression Accuracy: ~0.73
+Decision Tree Accuracy: ~0.78
+Random Forest Accuracy (Final Model): ~0.80 ✅
+📌 Random Forest was chosen as the best-performing model due to its higher accuracy and balanced performance across classes.
+# Future Work
+Expand the dataset with more demographic and transactional data.
+Implement deep learning recommendation systems.
+Could you deploy the model into a web app for real-time product recommendation?
